@@ -460,7 +460,7 @@
 }
 
 .best-detail h2 {
-  font-size: 24px;
+  font-size: 18px;
 }
 
 .best-detail span {
@@ -559,7 +559,7 @@ font-size: 25px;
   /* align-items: center; */
   justify-content: center;
   gap: 20px;
-  padding: 90px;
+  padding: 150px;
   background-color: var(--Zinc-500);
   color: var(--Primary-White);
 } 
